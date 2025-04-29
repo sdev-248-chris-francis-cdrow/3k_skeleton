@@ -1,7 +1,7 @@
 For this assignment, I modeled and animated a canoe and paddles in Blender.
 
 Design Process:
-I modeled the canoe and paddles separately, referencing real-life measurements to make sure the scale was correct. I did not detail the canoe as much because it was not going to be animated. The detailing went into the paddles, making sure that they were shaped and sized correctly to be animated.
+I modeled the canoe and paddles separately, referencing real-life measurements to make sure the scale was correct.
 
 Animation Process:
 The animation was all on the paddles. I animated them in a rowing motion to simulate paddling through water. I used keyframes to move and rotate the paddles along a natural curve, taking them slightly out of the water at the end of each stroke. I made sure to use smooth interpolation between keyframes to give a steady realistic movement.
